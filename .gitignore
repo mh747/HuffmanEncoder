@@ -1,0 +1,5 @@
+#Compiled Object Files
+/build/*
+
+#Executables
+/bin/*
